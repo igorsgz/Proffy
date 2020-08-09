@@ -7,9 +7,9 @@ React, React-Native e NodeJS
 SQLITE
 
 ### Demonstração da aplicação web:
-<img src=”https://raw.githubusercontent.com/igorsvn/Proffy/master/img-readme/landing-web.jpg”>
-<img src=”https://raw.githubusercontent.com/igorsvn/Proffy/master/img-readme/proffys-web.jpg”>
-<img src=”https://raw.githubusercontent.com/igorsvn/Proffy/master/img-readme/cadastro-web.jpg”>
+![](https://raw.githubusercontent.com/igorsvn/Proffy/master/img-readme/landing-web.jpg)
+![](https://raw.githubusercontent.com/igorsvn/Proffy/master/img-readme/proffys-web.jpg)
+![](https://raw.githubusercontent.com/igorsvn/Proffy/master/img-readme/cadastro.jpg)
 
 ### Demonstração da aplicação mobile:
 ![](https://raw.githubusercontent.com/igorsvn/Proffy/master/img-readme/landing-mobile.png)
